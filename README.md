@@ -22,6 +22,7 @@ PathwayVis code released under the MIT License. See [LICENSE](LICENSE) for addit
 
 ## Citing PathwayVis ٩(๑>◡<๑)۶
 
+The paper was accepted by the 2026 IEEE 2nd International Conference on Consumer Technology (ICCT-Pacific) and will soon be published.
 If you find this repository useful, please consider giving a star :star: and citation:
 
 ```
